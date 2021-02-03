@@ -65,7 +65,7 @@
 
   <!-- astra -->
 
-  <gazebo reference="camera_link">
+  <!--<gazebo reference="camera_link">
     <sensor type="depth" name="openni_camera_camera">
       <always_on>1</always_on>
       <visualize>true</visualize>
@@ -107,7 +107,7 @@
         <focalLength>0.0</focalLength>
       </plugin>
     </sensor>
-  </gazebo>
+  </gazebo>-->
 
   <!-- If you cant't use your GPU comment RpLidar using GPU and uncomment RpLidar using CPU 
     gazebo plugin. -->
