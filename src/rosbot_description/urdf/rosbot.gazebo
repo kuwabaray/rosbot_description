@@ -269,7 +269,7 @@
     </sensor>
   </gazebo>
 
-  <gazebo reference="range_fl">
+  <!--<gazebo reference="range_fl">
     <sensor type="ray" name="range_fl">
       <pose>0 0 0 0 0 0</pose>
       <update_rate>5</update_rate>
@@ -415,6 +415,6 @@
         <radiation>ultrasound</radiation>
       </plugin>
     </sensor>
-  </gazebo>
+  </gazebo>-->
 
 </robot>
